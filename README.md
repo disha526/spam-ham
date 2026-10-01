@@ -5,7 +5,7 @@ pipeline (TF-IDF + Naive Bayes) plus a Streamlit web app for real-time use.
 
 ## Files
 
-| File | Purpose |
+| File | Purpose 
 |---|---|
 | `spam_classifier.py` | Core library: data loading, text cleaning, TF-IDF + model pipeline, training, evaluation, and the reusable `predict_message()` function. |
 | `train.py` | CLI entry point — run this to train and evaluate the model. |
